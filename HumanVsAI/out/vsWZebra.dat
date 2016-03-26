@@ -1,0 +1,974 @@
+file name = 20150215203245.700
+initializing...
+------- begin -------
+Turn=X, TurnNumber= 1
+ ------------------ 
+|  a b c d e f g h |
+|1                 |
+|2                 |
+|3                 |
+|4       O X       |
+|5       X O       |
+|6                 |
+|7                 |
+|8                 |
+ ------------------ 
+BLACK= 2, WHITE= 2
+coord:c4
+ 
+Turn=O, TurnNumber= 2
+ ------------------ 
+|  a b c d e f g h |
+|1                 |
+|2                 |
+|3                 |
+|4     X X X       |
+|5       X O       |
+|6                 |
+|7                 |
+|8                 |
+ ------------------ 
+BLACK= 4, WHITE= 1
+coord:computing...
+c3 (Opening, 227.060)
+compute time = 0.000s
+ 
+Turn=X, TurnNumber= 3
+ ------------------ 
+|  a b c d e f g h |
+|1                 |
+|2                 |
+|3     O           |
+|4     X O X       |
+|5       X O       |
+|6                 |
+|7                 |
+|8                 |
+ ------------------ 
+BLACK= 3, WHITE= 3
+coord:d3
+ 
+Turn=O, TurnNumber= 4
+ ------------------ 
+|  a b c d e f g h |
+|1                 |
+|2                 |
+|3     O X         |
+|4     X X X       |
+|5       X O       |
+|6                 |
+|7                 |
+|8                 |
+ ------------------ 
+BLACK= 5, WHITE= 2
+coord:computing...
+c5 (Opening, 227.060)
+compute time = 0.000s
+ 
+Turn=X, TurnNumber= 5
+ ------------------ 
+|  a b c d e f g h |
+|1                 |
+|2                 |
+|3     O X         |
+|4     O X X       |
+|5     O O O       |
+|6                 |
+|7                 |
+|8                 |
+ ------------------ 
+BLACK= 3, WHITE= 5
+coord:b4
+ 
+Turn=O, TurnNumber= 6
+ ------------------ 
+|  a b c d e f g h |
+|1                 |
+|2                 |
+|3     O X         |
+|4   X X X X       |
+|5     O O O       |
+|6                 |
+|7                 |
+|8                 |
+ ------------------ 
+BLACK= 5, WHITE= 4
+coord:computing...
+a3 (Opening, 227.060)
+compute time = 0.000s
+ 
+Turn=X, TurnNumber= 7
+ ------------------ 
+|  a b c d e f g h |
+|1                 |
+|2                 |
+|3 O   O X         |
+|4   O X X X       |
+|5     O O O       |
+|6                 |
+|7                 |
+|8                 |
+ ------------------ 
+BLACK= 4, WHITE= 6
+coord:d6
+ 
+Turn=O, TurnNumber= 8
+ ------------------ 
+|  a b c d e f g h |
+|1                 |
+|2                 |
+|3 O   O X         |
+|4   O X X X       |
+|5     O X O       |
+|6       X         |
+|7                 |
+|8                 |
+ ------------------ 
+BLACK= 6, WHITE= 5
+coord:computing...
+f4 (Opening, 227.060)
+compute time = 0.000s
+ 
+Turn=X, TurnNumber= 9
+ ------------------ 
+|  a b c d e f g h |
+|1                 |
+|2                 |
+|3 O   O X         |
+|4   O O O O O     |
+|5     O X O       |
+|6       X         |
+|7                 |
+|8                 |
+ ------------------ 
+BLACK= 3, WHITE= 9
+coord:b3
+ 
+Turn=O, TurnNumber=10
+ ------------------ 
+|  a b c d e f g h |
+|1                 |
+|2                 |
+|3 O X X X         |
+|4   O X O O O     |
+|5     O X O       |
+|6       X         |
+|7                 |
+|8                 |
+ ------------------ 
+BLACK= 6, WHITE= 7
+coord:computing...
+c2 (Opening, 227.060)
+compute time = 0.000s
+ 
+Turn=X, TurnNumber=11
+ ------------------ 
+|  a b c d e f g h |
+|1                 |
+|2     O           |
+|3 O X O O         |
+|4   O O O O O     |
+|5     O X O       |
+|6       X         |
+|7                 |
+|8                 |
+ ------------------ 
+BLACK= 3, WHITE=11
+coord:e3
+ 
+Turn=O, TurnNumber=12
+ ------------------ 
+|  a b c d e f g h |
+|1                 |
+|2     O           |
+|3 O X X X X       |
+|4   O O O O O     |
+|5     O X O       |
+|6       X         |
+|7                 |
+|8                 |
+ ------------------ 
+BLACK= 6, WHITE= 9
+coord:computing...
+f3 (Opening, 227.060)
+compute time = 0.000s
+ 
+Turn=X, TurnNumber=13
+ ------------------ 
+|  a b c d e f g h |
+|1                 |
+|2     O           |
+|3 O O O O O O     |
+|4   O O O O O     |
+|5     O X O       |
+|6       X         |
+|7                 |
+|8                 |
+ ------------------ 
+BLACK= 2, WHITE=14
+coord:d2
+ 
+Turn=O, TurnNumber=14
+ ------------------ 
+|  a b c d e f g h |
+|1                 |
+|2     O X         |
+|3 O O O X O O     |
+|4   O O X O O     |
+|5     O X O       |
+|6       X         |
+|7                 |
+|8                 |
+ ------------------ 
+BLACK= 5, WHITE=12
+coord:computing...
+c1 (Opening, 227.060)
+compute time = 0.000s
+ 
+Turn=X, TurnNumber=15
+ ------------------ 
+|  a b c d e f g h |
+|1     O           |
+|2     O O         |
+|3 O O O X O O     |
+|4   O O X O O     |
+|5     O X O       |
+|6       X         |
+|7                 |
+|8                 |
+ ------------------ 
+BLACK= 4, WHITE=14
+coord:b5
+ 
+Turn=O, TurnNumber=16
+ ------------------ 
+|  a b c d e f g h |
+|1     O           |
+|2     O O         |
+|3 O O O X O O     |
+|4   O X X O O     |
+|5   X X X O       |
+|6       X         |
+|7                 |
+|8                 |
+ ------------------ 
+BLACK= 7, WHITE=12
+coord:computing...
+d7 (Opening, 227.060)
+compute time = 0.000s
+ 
+Turn=X, TurnNumber=17
+ ------------------ 
+|  a b c d e f g h |
+|1     O           |
+|2     O O         |
+|3 O O O O O O     |
+|4   O X O O O     |
+|5   X X O O       |
+|6       O         |
+|7       O         |
+|8                 |
+ ------------------ 
+BLACK= 3, WHITE=17
+coord:e2
+ 
+Turn=O, TurnNumber=18
+ ------------------ 
+|  a b c d e f g h |
+|1     O           |
+|2     O O X       |
+|3 O O O X O O     |
+|4   O X O O O     |
+|5   X X O O       |
+|6       O         |
+|7       O         |
+|8                 |
+ ------------------ 
+BLACK= 5, WHITE=16
+coord:computing...
+c6 (Middle,  -1.383)
+compute time = 0.121s
+ 
+Turn=X, TurnNumber=19
+ ------------------ 
+|  a b c d e f g h |
+|1     O           |
+|2     O O X       |
+|3 O O O X O O     |
+|4   O O O O O     |
+|5   X O O O       |
+|6     O O         |
+|7       O         |
+|8                 |
+ ------------------ 
+BLACK= 3, WHITE=19
+coord:d1
+ 
+Turn=O, TurnNumber=20
+ ------------------ 
+|  a b c d e f g h |
+|1     O X         |
+|2     O X X       |
+|3 O O O X O O     |
+|4   O O O O O     |
+|5   X O O O       |
+|6     O O         |
+|7       O         |
+|8                 |
+ ------------------ 
+BLACK= 5, WHITE=18
+coord:computing...
+e1 (Middle,  -1.444)
+compute time = 0.086s
+ 
+Turn=X, TurnNumber=21
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O       |
+|2     O O O       |
+|3 O O O X O O     |
+|4   O O O O O     |
+|5   X O O O       |
+|6     O O         |
+|7       O         |
+|8                 |
+ ------------------ 
+BLACK= 2, WHITE=22
+coord:f5
+ 
+Turn=O, TurnNumber=22
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O       |
+|2     O O O       |
+|3 O O O X O O     |
+|4   O O O X O     |
+|5   X X X X X     |
+|6     O O         |
+|7       O         |
+|8                 |
+ ------------------ 
+BLACK= 7, WHITE=18
+coord:computing...
+e6 (Middle,  -1.166)
+compute time = 0.234s
+ 
+Turn=X, TurnNumber=23
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O       |
+|2     O O O       |
+|3 O O O X O O     |
+|4   O O O O O     |
+|5   X X O O X     |
+|6     O O O       |
+|7       O         |
+|8                 |
+ ------------------ 
+BLACK= 4, WHITE=22
+coord:f2
+ 
+Turn=O, TurnNumber=24
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O       |
+|2     O O O X     |
+|3 O O O X X X     |
+|4   O O X O X     |
+|5   X X O O X     |
+|6     O O O       |
+|7       O         |
+|8                 |
+ ------------------ 
+BLACK= 9, WHITE=18
+coord:computing...
+a6 (Middle,  -1.156)
+compute time = 0.331s
+ 
+Turn=X, TurnNumber=25
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O       |
+|2     O O O X     |
+|3 O O O X X X     |
+|4   O O X O X     |
+|5   O X O O X     |
+|6 O   O O O       |
+|7       O         |
+|8                 |
+ ------------------ 
+BLACK= 8, WHITE=20
+coord:f6
+ 
+Turn=O, TurnNumber=26
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O       |
+|2     O O O X     |
+|3 O O O X X X     |
+|4   O O X O X     |
+|5   O X O X X     |
+|6 O   O O O X     |
+|7       O         |
+|8                 |
+ ------------------ 
+BLACK=10, WHITE=19
+coord:computing...
+g5 (Middle,  -1.517)
+compute time = 0.293s
+ 
+Turn=X, TurnNumber=27
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O       |
+|2     O O O X     |
+|3 O O O X O X     |
+|4   O O X O O     |
+|5   O X O O O O   |
+|6 O   O O O X     |
+|7       O         |
+|8                 |
+ ------------------ 
+BLACK= 6, WHITE=24
+coord:g4
+ 
+Turn=O, TurnNumber=28
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O       |
+|2     O O O X     |
+|3 O O O X O X     |
+|4   O O X X X X   |
+|5   O X O O O O   |
+|6 O   O O O X     |
+|7       O         |
+|8                 |
+ ------------------ 
+BLACK= 9, WHITE=22
+coord:computing...
+h3 (Middle,  -1.671)
+compute time = 0.662s
+ 
+Turn=X, TurnNumber=29
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O       |
+|2     O O O X     |
+|3 O O O X O X   O |
+|4   O O X X X O   |
+|5   O X O O O O   |
+|6 O   O O O X     |
+|7       O         |
+|8                 |
+ ------------------ 
+BLACK= 8, WHITE=24
+coord:g6
+ 
+Turn=O, TurnNumber=30
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O       |
+|2     O O O X     |
+|3 O O O X O X   O |
+|4   O O X X X O   |
+|5   O X O O X O   |
+|6 O   O O O X X   |
+|7       O         |
+|8                 |
+ ------------------ 
+BLACK=10, WHITE=23
+coord:computing...
+e7 (Middle,  -1.799)
+compute time = 0.387s
+ 
+Turn=X, TurnNumber=31
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O       |
+|2     O O O X     |
+|3 O O O X O X   O |
+|4   O O X X X O   |
+|5   O X O O X O   |
+|6 O   O O O O X   |
+|7       O O       |
+|8                 |
+ ------------------ 
+BLACK= 9, WHITE=25
+coord:f1
+ 
+Turn=O, TurnNumber=32
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O X     |
+|2     O O X X     |
+|3 O O O X O X   O |
+|4   O O X X X O   |
+|5   O X O O X O   |
+|6 O   O O O O X   |
+|7       O O       |
+|8                 |
+ ------------------ 
+BLACK=11, WHITE=24
+coord:computing...
+g1 (Middle,  -1.832)
+compute time = 0.261s
+ 
+Turn=X, TurnNumber=33
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O O O   |
+|2     O O X O     |
+|3 O O O X O X   O |
+|4   O O X X X O   |
+|5   O X O O X O   |
+|6 O   O O O O X   |
+|7       O O       |
+|8                 |
+ ------------------ 
+BLACK= 9, WHITE=27
+coord:h4
+ 
+Turn=O, TurnNumber=34
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O O O   |
+|2     O O X O     |
+|3 O O O X O X   O |
+|4   O O X X X X X |
+|5   O X O O X O   |
+|6 O   O O O O X   |
+|7       O O       |
+|8                 |
+ ------------------ 
+BLACK=11, WHITE=26
+coord:computing...
+h5 (Middle,  -2.137)
+compute time = 0.205s
+ 
+Turn=X, TurnNumber=35
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O O O   |
+|2     O O O O     |
+|3 O O O X O O   O |
+|4   O O X X X O O |
+|5   O X O O X O O |
+|6 O   O O O O X   |
+|7       O O       |
+|8                 |
+ ------------------ 
+BLACK= 7, WHITE=31
+coord:h6
+ 
+Turn=O, TurnNumber=36
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O O O   |
+|2     O O O O     |
+|3 O O O X O O   O |
+|4   O O X X X O O |
+|5   O X O O X X O |
+|6 O   O O O O X X |
+|7       O O       |
+|8                 |
+ ------------------ 
+BLACK= 9, WHITE=30
+coord:computing...
+g3 (Middle,  -2.326)
+compute time = 0.113s
+ 
+Turn=X, TurnNumber=37
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O O O   |
+|2     O O O O     |
+|3 O O O X O O O O |
+|4   O O X X O O O |
+|5   O X O O X X O |
+|6 O   O O O O X X |
+|7       O O       |
+|8                 |
+ ------------------ 
+BLACK= 8, WHITE=32
+coord:h2
+ 
+Turn=O, TurnNumber=38
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O O O   |
+|2     O O O O   X |
+|3 O O O X O O O X |
+|4   O O X X O O X |
+|5   O X O O X X X |
+|6 O   O O O O X X |
+|7       O O       |
+|8                 |
+ ------------------ 
+BLACK=12, WHITE=29
+coord:computing...
+b6 (Middle,  -2.220)
+compute time = 0.075s
+ 
+Turn=X, TurnNumber=39
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O O O   |
+|2     O O O O   X |
+|3 O O O X O O O X |
+|4   O O O X O O X |
+|5   O O O O X X X |
+|6 O O O O O O X X |
+|7       O O       |
+|8                 |
+ ------------------ 
+BLACK=10, WHITE=32
+coord:a4
+ 
+Turn=O, TurnNumber=40
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O O O   |
+|2     O O O O   X |
+|3 O O O X O O O X |
+|4 X X X X X O O X |
+|5   O O O O X X X |
+|6 O O O O O O X X |
+|7       O O       |
+|8                 |
+ ------------------ 
+BLACK=14, WHITE=29
+coord:computing...
+a5 (Middle,  -4.685)
+compute time = 0.056s
+ 
+Turn=X, TurnNumber=41
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O O O   |
+|2     O O O O   X |
+|3 O O O X O O O X |
+|4 O O X X X O O X |
+|5 O O O O O X X X |
+|6 O O O O O O X X |
+|7       O O       |
+|8                 |
+ ------------------ 
+BLACK=12, WHITE=32
+coord:b2
+ 
+Turn=O, TurnNumber=42
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O O O   |
+|2   X O O O O   X |
+|3 O O X X O O O X |
+|4 O O X X X O O X |
+|5 O O O O O X X X |
+|6 O O O O O O X X |
+|7       O O       |
+|8                 |
+ ------------------ 
+BLACK=14, WHITE=31
+coord:computing...
+g7 (Middle,  -7.231)
+compute time = 0.071s
+ 
+Turn=X, TurnNumber=43
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O O O   |
+|2   X O O O O   X |
+|3 O O X X O O O X |
+|4 O O X X X O O X |
+|5 O O O O O X O X |
+|6 O O O O O O O X |
+|7       O O   O   |
+|8                 |
+ ------------------ 
+BLACK=12, WHITE=34
+coord:h6
+incorrect input.
+coord:h7
+ 
+Turn=O, TurnNumber=44
+ ------------------ 
+|  a b c d e f g h |
+|1     O O O O O   |
+|2   X O O O O   X |
+|3 O O X X O O O X |
+|4 O O X X X O O X |
+|5 O O O O O X O X |
+|6 O O O O O O X X |
+|7       O O   O X |
+|8                 |
+ ------------------ 
+BLACK=14, WHITE=33
+coord:computing...
+a1 (Middle,  -7.830)
+compute time = 0.043s
+ 
+Turn=X, TurnNumber=45
+ ------------------ 
+|  a b c d e f g h |
+|1 O   O O O O O   |
+|2   O O O O O   X |
+|3 O O O X O O O X |
+|4 O O X O X O O X |
+|5 O O O O O X O X |
+|6 O O O O O O X X |
+|7       O O   O X |
+|8                 |
+ ------------------ 
+BLACK=11, WHITE=37
+coord:b1
+ 
+Turn=X, TurnNumber=46
+ ------------------ 
+|  a b c d e f g h |
+|1 O X O O O O O   |
+|2   O X O O O   X |
+|3 O O O X O O O X |
+|4 O O X O X O O X |
+|5 O O O O O X O X |
+|6 O O O O O O X X |
+|7       O O   O X |
+|8                 |
+ ------------------ 
+BLACK=13, WHITE=36
+coord:h1
+ 
+Turn=X, TurnNumber=47
+ ------------------ 
+|  a b c d e f g h |
+|1 O X X X X X X X |
+|2   O X O O O   X |
+|3 O O O X O O O X |
+|4 O O X O X O O X |
+|5 O O O O O X O X |
+|6 O O O O O O X X |
+|7       O O   O X |
+|8                 |
+ ------------------ 
+BLACK=19, WHITE=31
+coord:g2
+ 
+Turn=X, TurnNumber=48
+ ------------------ 
+|  a b c d e f g h |
+|1 O X X X X X X X |
+|2   O X X X X X X |
+|3 O O O X O X X X |
+|4 O O X O X O X X |
+|5 O O O O O X X X |
+|6 O O O O O O X X |
+|7       O O   O X |
+|8                 |
+ ------------------ 
+BLACK=27, WHITE=24
+coord:a2
+ 
+Turn=X, TurnNumber=49
+ ------------------ 
+|  a b c d e f g h |
+|1 O X X X X X X X |
+|2 X X X X X X X X |
+|3 O X O X O X X X |
+|4 O O X O X O X X |
+|5 O O O O O X X X |
+|6 O O O O O O X X |
+|7       O O   O X |
+|8                 |
+ ------------------ 
+BLACK=30, WHITE=22
+coord:h8
+ 
+Turn=O, TurnNumber=50
+ ------------------ 
+|  a b c d e f g h |
+|1 O X X X X X X X |
+|2 X X X X X X X X |
+|3 O X X X O X X X |
+|4 O O X X X O X X |
+|5 O O O O X X X X |
+|6 O O O O O X X X |
+|7       O O   X X |
+|8               X |
+ ------------------ 
+BLACK=36, WHITE=17
+coord:computing...
+f7 (Perfect, -56.000)
+compute time = 0.035s
+ 
+Turn=X, TurnNumber=51
+ ------------------ 
+|  a b c d e f g h |
+|1 O X X X X X X X |
+|2 X X X X X X X X |
+|3 O X X X O X X X |
+|4 O O X X X O X X |
+|5 O O O O X O X X |
+|6 O O O O O O X X |
+|7       O O O X X |
+|8               X |
+ ------------------ 
+BLACK=34, WHITE=20
+coord:f8
+ 
+Turn=O, TurnNumber=52
+ ------------------ 
+|  a b c d e f g h |
+|1 O X X X X X X X |
+|2 X X X X X X X X |
+|3 O X X X O X X X |
+|4 O O X X X X X X |
+|5 O O O O X X X X |
+|6 O O O O O X X X |
+|7       O O X X X |
+|8           X   X |
+ ------------------ 
+BLACK=39, WHITE=16
+coord:computing...
+g8 (Perfect, -56.000)
+compute time = 0.008s
+ 
+Turn=X, TurnNumber=53
+ ------------------ 
+|  a b c d e f g h |
+|1 O X X X X X X X |
+|2 X X X X X X X X |
+|3 O X X X O X X X |
+|4 O O X X X X X X |
+|5 O O O O X X X X |
+|6 O O O O O X X X |
+|7       O O O X X |
+|8           X O X |
+ ------------------ 
+BLACK=38, WHITE=18
+coord:e8
+ 
+Turn=O, TurnNumber=54
+ ------------------ 
+|  a b c d e f g h |
+|1 O X X X X X X X |
+|2 X X X X X X X X |
+|3 O X X X O X X X |
+|4 O O X X X X X X |
+|5 O O O O X X X X |
+|6 O O O O X X X X |
+|7       O X X X X |
+|8         X X O X |
+ ------------------ 
+BLACK=42, WHITE=15
+coord:computing...
+d8 (Perfect, -56.000)
+compute time = 0.001s
+ 
+Turn=X, TurnNumber=55
+ ------------------ 
+|  a b c d e f g h |
+|1 O X X X X X X X |
+|2 X X X X X X X X |
+|3 O X X X O X X X |
+|4 O O X X X X X X |
+|5 O O O O X X X X |
+|6 O O O O X X X X |
+|7       O X X X X |
+|8       O O O O X |
+ ------------------ 
+BLACK=40, WHITE=18
+coord:c8
+ 
+Turn=X, TurnNumber=56
+ ------------------ 
+|  a b c d e f g h |
+|1 O X X X X X X X |
+|2 X X X X X X X X |
+|3 O X X X O X X X |
+|4 O O X X X X X X |
+|5 O O O O X X X X |
+|6 O O O O X X X X |
+|7       X X X X X |
+|8     X X X X X X |
+ ------------------ 
+BLACK=46, WHITE=13
+coord:b7
+ 
+Turn=O, TurnNumber=57
+ ------------------ 
+|  a b c d e f g h |
+|1 O X X X X X X X |
+|2 X X X X X X X X |
+|3 O X X X O X X X |
+|4 O X X X X X X X |
+|5 O X O X X X X X |
+|6 O X X O X X X X |
+|7   X   X X X X X |
+|8     X X X X X X |
+ ------------------ 
+BLACK=52, WHITE= 8
+coord:computing...
+a7 (Perfect, -56.000)
+compute time = 0.000s
+ 
+Turn=X, TurnNumber=58
+ ------------------ 
+|  a b c d e f g h |
+|1 O X X X X X X X |
+|2 X X X X X X X X |
+|3 O X X X O X X X |
+|4 O X X X X X X X |
+|5 O X O X X X X X |
+|6 O O X O X X X X |
+|7 O X   X X X X X |
+|8     X X X X X X |
+ ------------------ 
+BLACK=51, WHITE=10
+coord:c7
+ 
+Turn=O, TurnNumber=59
+ ------------------ 
+|  a b c d e f g h |
+|1 O X X X X X X X |
+|2 X X X X X X X X |
+|3 O X X X O X X X |
+|4 O X X X X X X X |
+|5 O X O X X X X X |
+|6 O O X X X X X X |
+|7 O X X X X X X X |
+|8     X X X X X X |
+ ------------------ 
+BLACK=53, WHITE= 9
+coord:computing...
+b8 (Perfect, -56.000)
+compute time = 0.000s
+ 
+Turn=X, TurnNumber=60
+ ------------------ 
+|  a b c d e f g h |
+|1 O X X X X X X X |
+|2 X X X X X X X X |
+|3 O X X X O X X X |
+|4 O X X X X X X X |
+|5 O X O X X X X X |
+|6 O O X X X X X X |
+|7 O O X X X X X X |
+|8   O X X X X X X |
+ ------------------ 
+BLACK=52, WHITE=11
+coord:a8
+ 
+Turn=O, TurnNumber=61
+ ------------------ 
+|  a b c d e f g h |
+|1 O X X X X X X X |
+|2 X X X X X X X X |
+|3 X X X X O X X X |
+|4 X X X X X X X X |
+|5 X X O X X X X X |
+|6 X O X X X X X X |
+|7 X X X X X X X X |
+|8 X X X X X X X X |
+ ------------------ 
+BLACK=60, WHITE= 4
+total compute time =   2.983s
+-------- end --------
